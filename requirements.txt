@@ -1,1 +1,2 @@
-steem-piston>=0.3.4
+steem-piston>=0.4.1
+python-steem>=0.3.1
